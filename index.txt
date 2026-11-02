@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello to from new
 hello to main
+=======
+hello to main
+Loremipsin
+>>>>>>> 80fb5547be4150c22cb621e8c1ff061da716bce4
